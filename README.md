@@ -1,3 +1,3 @@
 # SPARK practice
-Some SPARK sample code in Databricks 
+Some Spark sample code in Databricks 
 
