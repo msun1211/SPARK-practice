@@ -1,2 +1,3 @@
-# SPARK_practice
-Some SPARK sample code 
+# SPARK practice
+Some SPARK sample code in Databricks 
+
